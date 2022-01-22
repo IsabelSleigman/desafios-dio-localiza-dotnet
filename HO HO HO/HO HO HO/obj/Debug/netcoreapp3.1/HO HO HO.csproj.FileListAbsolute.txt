@@ -1,0 +1,14 @@
+D:\Repo\Desafio C#\desafios-dio-localiza-dotnet\HO HO HO\HO HO HO\bin\Debug\netcoreapp3.1\HO HO HO.exe
+D:\Repo\Desafio C#\desafios-dio-localiza-dotnet\HO HO HO\HO HO HO\bin\Debug\netcoreapp3.1\HO HO HO.deps.json
+D:\Repo\Desafio C#\desafios-dio-localiza-dotnet\HO HO HO\HO HO HO\bin\Debug\netcoreapp3.1\HO HO HO.runtimeconfig.json
+D:\Repo\Desafio C#\desafios-dio-localiza-dotnet\HO HO HO\HO HO HO\bin\Debug\netcoreapp3.1\HO HO HO.runtimeconfig.dev.json
+D:\Repo\Desafio C#\desafios-dio-localiza-dotnet\HO HO HO\HO HO HO\bin\Debug\netcoreapp3.1\HO HO HO.dll
+D:\Repo\Desafio C#\desafios-dio-localiza-dotnet\HO HO HO\HO HO HO\bin\Debug\netcoreapp3.1\HO HO HO.pdb
+D:\Repo\Desafio C#\desafios-dio-localiza-dotnet\HO HO HO\HO HO HO\obj\Debug\netcoreapp3.1\HO HO HO.csproj.AssemblyReference.cache
+D:\Repo\Desafio C#\desafios-dio-localiza-dotnet\HO HO HO\HO HO HO\obj\Debug\netcoreapp3.1\HO HO HO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo\Desafio C#\desafios-dio-localiza-dotnet\HO HO HO\HO HO HO\obj\Debug\netcoreapp3.1\HO HO HO.AssemblyInfoInputs.cache
+D:\Repo\Desafio C#\desafios-dio-localiza-dotnet\HO HO HO\HO HO HO\obj\Debug\netcoreapp3.1\HO HO HO.AssemblyInfo.cs
+D:\Repo\Desafio C#\desafios-dio-localiza-dotnet\HO HO HO\HO HO HO\obj\Debug\netcoreapp3.1\HO HO HO.csproj.CoreCompileInputs.cache
+D:\Repo\Desafio C#\desafios-dio-localiza-dotnet\HO HO HO\HO HO HO\obj\Debug\netcoreapp3.1\HO HO HO.dll
+D:\Repo\Desafio C#\desafios-dio-localiza-dotnet\HO HO HO\HO HO HO\obj\Debug\netcoreapp3.1\HO HO HO.pdb
+D:\Repo\Desafio C#\desafios-dio-localiza-dotnet\HO HO HO\HO HO HO\obj\Debug\netcoreapp3.1\HO HO HO.genruntimeconfig.cache
